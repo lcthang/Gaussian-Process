@@ -1,0 +1,1 @@
+['G2', 'G1', 'absences', 'age', 'Walc', 'Medu', 'sex', 'famsize', 'school', 'reason', 'health', 'traveltime', 'guardian', 'Fjob', 'freetime']
